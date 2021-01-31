@@ -1,0 +1,4 @@
+'else'		         '其他'
+'terrorism'	         '暴恐'
+'porn'               '色情'
+'political'          '政治'
