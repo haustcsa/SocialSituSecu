@@ -1,1 +1,1 @@
-SensitiveInformation-Check
+A multimodal fusion sensitive information classification detection method：This method uses Fasttext as a text-sensitive classification model .Then, InceptionV3 network based on deep learning is constructed as an image-sensitive classification model. Finally, a decision-level fusion algorithm is designed to fuse the sensitive classification results of text and images. 
