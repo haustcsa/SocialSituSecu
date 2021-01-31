@@ -1,0 +1,3 @@
+'porn'		   '涉黄'
+'politics'	   '涉政'
+'terrorism'    '涉恐'
