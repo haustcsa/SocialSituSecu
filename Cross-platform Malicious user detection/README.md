@@ -1,1 +1,14 @@
-A malicious user detection algorithm oriented to multi-party privacy protection. This algorithm uses homomorphic encryption to encrypt sensitive data. Under the premise of ensuring data security and user privacy protection, it integrates multi-party data for modeling and analysis, and realizes the use of multi-party data for modeling and analysis. Accurate detection of malicious users in the platform, and the algorithm used in this article is an end-to-end gradient boosting tree algorithm, which has the same accuracy compared with traditional machine learning methods.
+CPMU_Detection Configuration Usage Guide.
+
+This section introduces the dsl and conf relationships for usage.
+
+
+1. Binary-Class:  
+    train-data: 
+	(1) guest: upload_data_Android
+	(2) host: upload_data_PC
+   	(3) dsl: test_CPMUDetection_train_dsl
+   	(4) runtime_config: test_CPMUDetection_train_binary_conf
+    predict-data
+	(1) test_CPMUDetection_predict_conf.json
+     
