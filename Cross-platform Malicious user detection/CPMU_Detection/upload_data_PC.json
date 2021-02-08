@@ -1,8 +1,0 @@
-{
-    "file": "examples/data/Cyvod_data_a.csv",
-    "head": 1,
-    "partition": 10,
-    "work_mode": 1,
-    "table_name": "Cyvod_a",
-    "namespace": "Cyvod"
-}
