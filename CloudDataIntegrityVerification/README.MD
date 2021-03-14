@@ -1,0 +1,1 @@
+A cloud data integrity verification scheme。It is different from the traditional way of downloading all the data from a cloud server。This solution verifies the integrity of the cloud data by retaining a small portion of the metadata.MD5 encryption is used for data encryption in the algorithm, and the bilinear mapping is realized by JPBC library.
