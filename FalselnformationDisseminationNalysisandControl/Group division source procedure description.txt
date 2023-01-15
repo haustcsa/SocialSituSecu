@@ -1,0 +1,7 @@
+configuration environment：python3.7
+installation package
+os
+jieba-0.42.1
+jieba.analyse
+gensim4.0.0b0
+logging
