@@ -1,6 +1,0 @@
-configuration environment:python3.7
-installation package
-division
-math
-random
-logging
