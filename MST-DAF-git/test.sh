@@ -1,0 +1,1 @@
+python Test.py --model_dir exp/ped2/log/model_540.pth --dataset_path dataset/ --dataset_type ped2

@@ -1,0 +1,1 @@
+python Train.py --gpus 0 --batch_size 4 --dataset_type ped2 --dataset_path ./dataset/ --exp_dir ./exp/ped2/log/
